@@ -1,0 +1,7 @@
+.streamlit/secrets.toml
+
+venv/
+.env/
+
+
+*.db
